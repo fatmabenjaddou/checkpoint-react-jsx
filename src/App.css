@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    height: 1000px;
+    width: 1100px;
+    background: #f8f4f2;
+    font-family: Arial;
+  }
+  .app {
+    width: 100%;
+    max-width: 330px;
+    padding: 10px;
+    margin: auto;
+    height: 100%;
+    margin-top: 50px;
+  }
+  .faty {
+    border-radius: 50%;
+    width: 40%;
+    padding: 25px;
+    margin: auto;
+    height: 100%;
+    margin-top: 40px;
+    background-color: silver;
+  }
+  h1{
+
+    color: palevioletred;
+    font-style: oblique;
+    font-size: larger;
+    
+}
+ 
+
+
+p{
+
+    color: blueviolet;
+    font-style: oblique;
+    font-size: x-large;
+}
